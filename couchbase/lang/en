@@ -1,0 +1,4 @@
+index_title=Couchbase Server
+index_start=Start Couchbase Server
+start_err=Failed to start database
+
