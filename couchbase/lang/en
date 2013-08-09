@@ -1,5 +1,7 @@
 index_title=Couchbase Server
 index_start=Start Couchbase Server
-start_err=Failed to start Couchbase Server
 index_startmsg=Click this button to start the Couchbase Server on your system with the command $1.
 index_stop=Stop Couchbase Server
+index_stopmsg=Click this button to stop the Couchbase Server on your system with the command $1.
+start_err=Failed to start Couchbase Server
+stop_err=Failed to stop Couchbase Server

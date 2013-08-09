@@ -1,1 +1,2 @@
-start_cmd=/etc/init.d/couchbase-server start
+start_cmd=service couchbase-server start
+stop_cmd=service couchbase-server stop
