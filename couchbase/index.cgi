@@ -4,7 +4,7 @@
 require './couchbase-lib.pl';
 &ReadParse();
 
-ui_print_header(undef, $module_info{'desc'}, "", undef, 1, 1);
+&ui_print_header(undef, $module_info{'desc'}, "", undef, 1, 1);
 print "<form action=start.cgi>\n";
 print "<table width=100%><tr><td>\n";
 print "<input type=submit ", "value=\"$text{'index_start'}\"></td>\n";
