@@ -5,3 +5,4 @@ index_stop=Stop Couchbase Server
 index_stopmsg=Click this button to stop the Couchbase Server on your system.
 start_err=Failed to start Couchbase Server
 stop_err=Failed to stop Couchbase Server
+cb_not_loaded=Couchbase is not loaded on your system.
